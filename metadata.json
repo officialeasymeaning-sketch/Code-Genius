@@ -1,0 +1,5 @@
+{
+  "name": "Code Genius",
+  "description": "An advanced AI-powered code generator that creates and previews code in multiple languages using Google's Gemini models.",
+  "requestFramePermissions": []
+}
